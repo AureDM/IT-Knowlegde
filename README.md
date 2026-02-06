@@ -44,5 +44,5 @@ git push
 3 - On the other OS
 ```
 git pull
-``
-And all appear on Obsidian.
+```
+And everything appears on Obsidian.
