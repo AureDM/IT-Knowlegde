@@ -24,5 +24,4 @@ Base de connaissance personnelle :
 ---
 
 ## ✅ À tester
-- [ ] Outil XYZ
-- [ ] Nouveau setup Fedora
+- [ ] Se référer à mes notes sur mon Google Pixel
